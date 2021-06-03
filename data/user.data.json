@@ -1,0 +1,12 @@
+[
+    {
+        "login": "admin@mail.com",
+        "password": "admin@1",
+        "role": "ROLE_ADMIN"
+    },
+    {
+        "login": "joueur@mail.com",
+        "password": "joueur@1",
+        "role": "ROLE_JOUEUR"
+    }
+]
