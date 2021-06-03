@@ -1,4 +1,5 @@
 <?php
+// ouvrir une session
 function open_session() {
     if (session_status() == PHP_SESSION_NONE) {
         session_start();
